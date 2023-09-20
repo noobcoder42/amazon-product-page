@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-weight: normal;
+    font-size: 48px;
+}
+.synopsys {
+    font-size: 20px;
+}
+.synopsys-title {
+    font-size: 22px;
+    font-weight: 200;
+}
+.author {
+    color: #007185;
+}
+.nav {
+    font-size: 18px;
+    color: #565959;
+}
+.book-img {
+    width: 500px;
+    height: 680px;
+    box-shadow: 2px 3px 3px 3px #cccccc;
+}
+.rating-img {
+    width: 160px
+}
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0 46px 0 46px;
+}
+.details-container {
+    margin-left: 50px;
+}
+
